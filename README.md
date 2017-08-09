@@ -9,7 +9,7 @@
 主要目标：
 
 1. 学习使用 eventproxy 来控制并发。
-2. 测试框架使用 mocha http://visionmedia.github.io/mocha/
+2. 测试框架使用 mocha http://mochajs.org/
 
 	断言框架使用 should https://github.com/visionmedia/should.js/
 	
